@@ -1,4 +1,4 @@
-How To Run the Project
+<b>How To Run the Project </b>
 
 1- Clone the repository
 
