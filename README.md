@@ -100,7 +100,7 @@ You don't need any prerequisites to run this application
 
 Chris Serrao - https://www.linkedin.com/in/chris-serrao-64360a199/ - cserrao@umass.edu
 
-Project Link: [https://github.com/uvrays123/Twitter-Kafka](https://github.com/uvrays123/Forkify-Recipe-Finder)
+Project Link: [https://github.com/uvrays123/Forkify-Recipe-Finder](https://github.com/uvrays123/Forkify-Recipe-Finder)
 
 
 
